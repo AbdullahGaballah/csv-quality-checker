@@ -1,0 +1,25 @@
+File: processing/diabetes.csv
+Total Records: 768
+
+Missing Values Per Column:
+Pregnancies              0
+Glucose                 0
+BloodPressure           0
+SkinThickness           0
+Insulin                 0
+BMI                     0
+DiabetesPedigree        0
+Age                     0
+Outcome                 0
+dtype: int64
+
+Outliers Per Numeric Column:
+Pregnancies: 79 outliers
+Glucose: 27 outliers
+BloodPressure: 35 outliers
+SkinThickness: 145 outliers
+Insulin: 274 outliers
+BMI: 19 outliers
+DiabetesPedigree: 29 outliers
+Age: 60 outliers
+Outcome: 268 outliers
